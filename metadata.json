@@ -1,0 +1,6 @@
+{
+  "name": "Fennec — Self-Driving Workflows",
+  "description": "Fennec full-screen interactive hero section with 3D fox, ambient background video, and expandable navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
